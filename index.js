@@ -47,7 +47,8 @@ export default class Timer extends Component {
         const seconds = parseInt(second % 60);
 
         return (
-            <Text>
+            <Text
+                {...this.props.textProps}>
                 {!hideHours && (hours + ':')}
                 {this.zeroPrefix(minutes) + ':'}
                 {this.zeroPrefix(seconds)}
