@@ -1,7 +1,13 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "name": "react-native-basic-timer",
     "main": "index.js",
     "author": "Avare Kodcu <abdurrahmaneker58@gmail.com>",
-    "license": "MIT"
+    "license": "MIT",
+    "keywords": [
+        "timer",
+        "react-timer",
+        "timer-component",
+        "react-component"
+    ]
 }
