@@ -1,0 +1,7 @@
+{
+    "version": "1.0.0",
+    "name": "react-native-basic-timer",
+    "main": "index.js",
+    "author": "Avare Kodcu <abdurrahmaneker58@gmail.com>",
+    "license": "MIT"
+}
